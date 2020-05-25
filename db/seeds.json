@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ed Center",
+        "capacity": 130
+    },
+    {
+        "name": "Sophie Conference Room",
+        "capacity": 12
+    },
+    {
+        "name": "Big Backyard",
+        "capacity": 30
+    },
+    {
+        "name": "Sophie Library",
+        "capacity": 12
+    },
+    {
+        "name": "Event Tent",
+        "capacity": 100
+    }
+]
